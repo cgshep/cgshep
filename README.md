@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Carlton. I'm a researcher and educator. Before joining academia, I worked in financial technology as a data scientist and research scientist. [You can learn more about me here.](https://cs.gl)
+I'm Carlton. I'm a researcher and educator. Before academia, I worked in financial technology as a data scientist and research scientist. [You can learn more about me here.](https://cs.gl)
 
 I also love teaching people about computer science; I'm currently a Lecturer (Assistant Professor) at Newcastle University where I can straddle all of my interests.
 
